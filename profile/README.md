@@ -10,7 +10,8 @@ Our goal is to enable transparency, reproducibility, and collaboration in buildi
 
 | Project        | Description                                                  |
 |----------------|--------------------------------------------------------------|
-| [grid-meta](https://github.com/grid-atlas/grid-meta) | Python package for energy modeling configuration and analysis |
+| [grid-meta](https://github.com/grid-atlas/grid-meta) | A repository for extracting dehydrated metadata for distribution power grid model. |
+| [grid-reducer](https://github.com/grid-atlas/grid-reducer) | A repository for performing network reduction in distribution system power flow model. |
 
 
 ---
