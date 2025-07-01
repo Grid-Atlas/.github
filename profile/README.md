@@ -12,6 +12,7 @@ Our goal is to enable transparency, reproducibility, and collaboration in buildi
 |----------------|--------------------------------------------------------------|
 | [grid-meta](https://github.com/grid-atlas/grid-meta) | A repository for extracting dehydrated metadata for distribution power grid model. |
 | [grid-reducer](https://github.com/grid-atlas/grid-reducer) | A repository for performing network reduction in distribution system power flow model. |
+| [dss-ai](https://github.com/grid-atlas/dss-ai) | A repository for interacting with OpenDSS model using LLM. |
 
 
 ---
